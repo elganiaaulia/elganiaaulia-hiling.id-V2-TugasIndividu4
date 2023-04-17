@@ -10,7 +10,7 @@ Apk Preview
 ---
 ## Landing Page 
 <p align="center">
-    <img width="250px" src="./assets/HILING.pjg">
+    <img width="250px" src="assets/HILING.pjg">
 </p>
 
 ## Library
